@@ -4,6 +4,10 @@ Talk to your Mac. Say a command and it runs as AppleScript; say a web task and i
 your Chrome. Routing takes about 300 ms because a System One model *chooses* instead of
 generating.
 
+[![macbrow demo](https://img.youtube.com/vi/cPBlb1neXiI/maxresdefault.jpg)](https://youtu.be/cPBlb1neXiI)
+
+*Demo video: [youtu.be/cPBlb1neXiI](https://youtu.be/cPBlb1neXiI)*
+
 > **Experimental. Not for production.** This prototype lets a language model run scripts
 > and click around a browser on your machine. An early version, asked to "clean up my
 > desktop", moved every file on the Desktop into a folder. The safety policy in
